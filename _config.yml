@@ -14,22 +14,21 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 개발하는 유진 # the main title
+title: 유진 # the main title
 
-tagline: 데굴데굴 # it will display as the sub-title
+tagline: 먀먕 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
- 굴데굴데
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://yujiniii.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: yujiniii # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+#twitter:
+#  username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
@@ -38,11 +37,11 @@ social:
   email: "yujiniii@icloud.com" # change to your email address
   links:
     # The first element serves as the copyright owner's link
-#    - https://twitter.com/username # change to your twitter homepage
+    #    - https://twitter.com/username # change to your twitter homepage
     - https://github.com/yujiniii # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/yujiniii-a3376724a
 
 # Site Verification Settings
 webmaster_verifications:
