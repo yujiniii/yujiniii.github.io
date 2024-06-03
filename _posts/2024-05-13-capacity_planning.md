@@ -3,7 +3,7 @@ title: "[가상면접 사례로 배우는 대규모 시스템 설계] 규모 추
 author: yujiniii
 date: 2024-05-13 01:00:00 +0900
 categories: [study, 가상면접 사례로 배우는 대규모 시스템 설계]
-tags: ["backend", "node"]
+tags: ["infra"]
 img_path: "/assets/img/posts/PN0/"
 pin: false
 ---
