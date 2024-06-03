@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: 유진 # the main title
 
-tagline: 먀먕 # it will display as the sub-title
+tagline: 🐢🐢 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
 
@@ -87,7 +87,7 @@ theme_mode: # [light | dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://avatars.githubusercontent.com/u/50348197?v=4"
+avatar: "/assets/img/avatar/me.jpeg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
